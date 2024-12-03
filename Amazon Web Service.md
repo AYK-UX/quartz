@@ -1,0 +1,54 @@
+
+- Identity  and Access Management (IAM)
+	- Gestion des accès
+		- Groupes d'utilisateurs
+		- Utilisateurs
+		- Rôles
+		- Politiques
+		- Fournisseurs d'identité
+		- Paramètres du compte
+		- Root access management
+	- Rapport d'accès
+		- Analyseur d'accès
+		- Rapport sur les informations d'identification
+		- Activité de l'organisation
+		- Politiques de contrôle des services
+		- Politiques de contrôle des ressources
+- EC2
+	- Instances
+		- Instances
+		- Types d'instances
+		- Modèles de lancement
+		- Demande Spot
+		- Savings Plans
+		- Instances réservées
+		- Hôtes dédiés
+		- Réservations de capacité
+	- Images
+		- AMI
+		- Catalogue des AMI
+	- Elastic Block Store
+		- Volumes
+		- Instantanés
+		- Gestionnaire de cycle de vie
+	- Réseau et sécurité
+		- Groupes de sécurité
+		- Adresse IP élastiques
+		- Groupes de placement
+		- Paires de clés
+		- Interfaces réseau
+	- Equilibrage de charge
+		- Equilibreurs de charge
+		- Groupes cibles
+		- Trust Stores
+	- Auto Scaling
+		- Groupes Auto Scaling
+- S3
+	- Compartiments
+	- Access Grants
+	- Point d'accès
+	- Points d'accès de l'objet lambda
+	- Point d'accès multi-région
+	- Opérations par lot
+	- IAM Access Analyzer pour S3
+- AMI
